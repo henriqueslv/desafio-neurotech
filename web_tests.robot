@@ -1,5 +1,5 @@
 *** Settings ***
-Resource          resources.robot
+Resource          web_resources.robot
 Test Setup        Start browser
 
 *** Test Cases ***
@@ -11,5 +11,5 @@ Test Case
     Buy notebook
     Go to cart
     Validate product in cart
-    
+
     
