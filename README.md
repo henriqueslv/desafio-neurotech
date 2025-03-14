@@ -18,8 +18,6 @@ Este repositório contém os testes automatizados utilizando **Robot Framework**
   
   ```bash
   pip install install robotframework-requests
-
-  pip install robotframework-jsonlibrarys  
 ## Executando os Testes
 
 - Testes Web:

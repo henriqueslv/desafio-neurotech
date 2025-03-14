@@ -14,7 +14,3 @@ Invalid zip code
 Invalid format zip code
     Create Session ViaCep
     Enter invalid format zip code and validate status 400
-
-
-
-    

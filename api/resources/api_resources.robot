@@ -1,7 +1,6 @@
 *** Settings ***
-Library     RequestsLibrary
+Library    RequestsLibrary
 Library    Collections
-
 
 *** Variables ***
 ${BASE_URL}                     https://viacep.com.br/ws
@@ -10,10 +9,6 @@ ${INVALID_CEP}                  00000000
 ${INVALID_FORMAT_CEP}           00000
 ${EXPECTED_NEIGHBORHOOD}        Cordeiro
 ${EXPECTED_ERRO}                true
-
-
-
-
 
 *** Keywords ***
 
